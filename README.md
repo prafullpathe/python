@@ -1,4 +1,5 @@
 # https://github.com/docker-library/python
+This is the official thr docker community documentation and project detail.
 
 ## Maintained by: [the Docker Community](https://github.com/docker-library/python)
 
